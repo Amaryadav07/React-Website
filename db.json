@@ -1,0 +1,348 @@
+{
+  "ecommerce": [
+    
+      {
+        "id": 1,
+        "name": "Men Solid Single Breasted Casual Blazer.",
+        "price": "Rs.2498",
+        "description": " Men Solid Poly  Notched  Formal Blazer.",
+        "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/waistcoat/v/n/x/m-men-waistcoat-ntc-store-original-imah7wbnxxx8yxad.jpeg?q=70"
+      },
+      {
+        "id": 2,
+        "name": "Men Silk Blend Kurta Churidar Ethnic  Set",
+        "price": "Rs.4000",
+          "description": "Ethnic Jacket and Kurta Set",
+        "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/ethnic-set/n/j/g/xl-ki-sq-1133-cryl-kraft-india-original-imagkzpaprbr3k6k.jpeg?q=70"
+      },
+       {
+        "id": 3,
+        "name": "Western Black Suit Set designed for the srk",
+        "price": "Rs.5000",
+          "description": "Designed for the modern era of clothing .",
+        "image": "https://sabyasachi.com/cdn/shop/files/WHATS_NEW_300x@2x.jpg?v=1746521627"
+      },
+        {
+        "id": 4,
+        "name": "Women Lehnga latest for wedding", 
+        "price": "Rs.10000",
+         "description": "The peach lehng set features subtle .",
+        "image": "https://sabyasachi.com/cdn/shop/files/Untitled-5_77b7d30a-548a-40d6-b991-dd8036ad0356_300x@2x.jpg?v=1743578062"
+      },
+        {
+        "id": 5,
+        "name": "Punjabi Sherwani for wedding",
+        "price": "Rs.12000",
+          "description": "The turban sherwani set wedding.",
+        "image": "https://sabyasachi.com/cdn/shop/files/DSabyasachi-05.03_19774226-62d1-4f9c-bc94-f5e0319b9773_1920x@2x.jpg?v=1697012509"
+      },
+       {
+        "id": 6,
+        "name": "Men Solid Single Breasted Casual Blazer.",
+        "price": "Rs.2498",
+        "description": " Men Solid Poly  Notched  Formal Blazer.",
+        "image": "https://images.pexels.com/photos/13624155/pexels-photo-13624155.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "id": 7,
+        "name": "Men Silk Blend Kurta  Ethnic Set",
+        "price": "Rs.4000",
+          "description": "Ethnic Jacket and Kurta Set",
+        "image": "https://images.pexels.com/photos/9345717/pexels-photo-9345717.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+       {
+        "id": 8,
+        "name": "Western Black Suit Set designed for the men",
+        "price": "Rs.5000",
+          "description": "Designed for the modern era of clothing .",
+        "image": "https://images.pexels.com/photos/14664890/pexels-photo-14664890.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+        {
+        "id": 9,
+        "name": "Women Lehnga latest for wedding", 
+        "price": "Rs.10000",
+         "description": "The peach lehng set features subtle .",
+        "image": "https://media.istockphoto.com/id/1136793148/photo/beautiful-indian-bride-in-traditional-hindu-wedding-attire-with-lehnga-bridal-bangles-and-shy.jpg?b=1&s=612x612&w=0&k=20&c=0BRH9k9eCfoyct3ti7Dn9W1-LRKYBrIJ9mRKGLNlAno="
+      },
+        {
+        "id": 10,
+        "name": "Punjabi Sherwani for wedding",
+        "price": "Rs.12000",
+          "description": "The turban sherwani set  wedding.",
+        "image": "https://images.pexels.com/photos/30891941/pexels-photo-30891941/free-photo-of-festive-man-in-traditional-indian-attire.jpeg?auto=compress&cs=tinysrgb&w=600"
+      }
+    ],
+  
+  
+  
+
+  
+
+  "product":[
+    {
+      "id":11,
+      "image":"https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSfXb_zL-SWhjrZawDHQ-p4NGqP0pqxdoYwnHT_5fITQQmK-XFYqDGgbxxmROXqTe6Xxkf86rhrpuvYhAonS5kW-hyuajCPq-4SzHf-l4fep_kstGfmGH0X",
+      "name":"Libas",
+      "description":"Women Kurta with Trousers",
+      "price":"Rs.1248 "
+    },
+     {
+      "id":12,
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5y5OOzd7TMcG-beBzMhcszwh-x2vIYsyM9A&s",
+      "name":"Anouk",
+      "description":"Regular Kurta",
+      "price":"Rs.2849"
+    },
+    {
+      "id":13,
+      "image":"https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR9hK4Lma3u1g2SYfLhqLHagLkVHIsly0m2OXLNQ7YHyAv8JSVApBH1JRX3EOrtG2h7beJw6WpP-RhYtEBbDzaxZ3AYSsVhW6l7v0cC8wTE31BRayP0xMVcaw&usqp=CAc",
+      "name":"Anaya",
+      "description":"Pure Cotton Kurta",
+      "price":"Rs.1799"
+    },
+    {
+      "id":14,
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-74TX17UtcKfNBLKgyedq1aWSLca_cl67cw&s",
+      "name":"Indo Era",
+      "description":"Embroidered Cotton Flex Suit Set",
+      "price":"Rs.1499"
+    },
+    {
+      "id":15,
+      "image":"https://rukminim2.flixcart.com/image/850/1000/xif0q/ethnic-set/v/u/p/xs-48049-libas-original-imags7eszsgqzqra.jpeg?q=90&crop=false",
+      "name":"Libas",
+      "description":"Kurta Pant",
+      "price":"Rs.1248"
+    },
+    {
+      "id":16,
+      "image":"https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSpB2dQn7ysIof0MMys22b5TfcRFEvldFmVejyFaCU_atTJUYFM8jGqpKTh4-M4FnBkjFBruAxAOoZ8NKHspy7QVYA6eC981Lezz1E_KBpKWebabDAw2NMvdw&usqp=CAc",
+      "name":"Anaya",
+      "description":"Lavender Embroidered Suit",
+      "price":"Rs.1399"
+    },
+    {
+      "id":17,
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdvyB2NUKrrGBAyhzUI0H7UrO8_KkEor1FVw&s",
+      "name":"Anouk",
+      "description":"Black Velvet Embroidered Kurta",
+      "price":"Rs.2999"
+    },
+    {
+      "id":18,
+      "image":"https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTyIj51Cv7AsnJuy8f5XlX1v4NHLCgLdy1MCvXJytC_S3NHTJbaSO9UF9RUQDczdlE3StzgJBVurk2pLX6CKHXWLpl9Li9lRaBKyjEyIMxLZShytXTxA-WtAQ&usqp=CAc",
+      "name":"Sangria",
+      "description":"Embroidered V-Neck Kurta",
+      "price":"Rs.2123"
+    },
+    {
+      "id":19,
+      "image":"https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTYXQ0Yuirz4YcHKTT2XQyb7qn5o1DeVyQfv9JEZbbYjYy8tEGdVn-EqbZih2HjQ_ZxKKi1B9rDsDIO4knJ2-EiGZS2tbOt6zcGz2jQtR_dRDBeZqlGPt8YPw&usqp=CAc",
+      "name":"Sangria",
+      "description":"Front Slit Kurta With Trousers",
+      "price":"Rs.1973"
+    },
+    {
+      "id":20,
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_unHiWfuyDwhSzQLDsNqVWwLM7lp_hWTpxg&s",
+      "name":"KIMAYRA",
+      "description":"Cotton Kurta and Tulip Pants",
+      "price":"Rs.4999"
+    },
+    {
+      "id":21,
+      "image":"https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR1paqLe5he5fS4pdtS8YZq4JN8P-AopyoFWkfZmyAcXnbzobn_8uzzyjBYY1bLiX_nhzQ6Upo1qeA9yBqZ3J_KICGx_v75jj_cE8LwLAT4lH0NWAFV0mji",
+      "name":"Libas",
+      "description":"Floral Printed Anarkali Kurta",
+      "price":"Rs.644"
+    },
+    {
+      "id":22,
+      "image":"https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTiMpD9t1Uwg0kmglb7FIZBLdPt5cNOB7NZEnawDSy82Qub4B1p9jbV-Pg__ZWL-bt5u2XuZNIsubAOg0Wwiq6_NREurG0_gYcuu8d6cIs",
+      "name":"Anaya",
+      "description":"Women Kurta with Trousers",
+      "price":"Rs.1619 "
+    },
+    {
+      "id":23,
+      "image":"https://images.meesho.com/images/products/383421981/al8ag_1200.jpg",
+      "name":"Libas",
+      "description":"Floral Printed Aaliacut kurta",
+      "price":"Rs.1248"
+    },
+    {
+      "id":24,
+      "image":"https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQZlqi02bWjvQxb02b1WTahodNssWrw4oNO_-0yRwAl341vQPxQwydZzEIcaNXDv-d-_Yp1tW9_d_H0vOCoVI-2a4Tu2Ia-NAHRm33zONI",
+      "name":"MOKOSH",
+      "description":"Embroidered Anarkali Kurta",
+      "price":"Rs.1699 "
+    },
+     {
+      "id":25,
+      "image":"https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSpB2dQn7ysIof0MMys22b5TfcRFEvldFmVejyFaCU_atTJUYFM8jGqpKTh4-M4FnBkjFBruAxAOoZ8NKHspy7QVYA6eC981Lezz1E_KBpKWebabDAw2NMvdw&usqp=CAc",
+      "name":"Anaya",
+      "description":"Lavender Embroidered Suit",
+      "price":"Rs.1399 "
+    },
+    {
+      "id":26,
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdvyB2NUKrrGBAyhzUI0H7UrO8_KkEor1FVw&s",
+      "name":"Anouk",
+      "description":"Black Velvet Embroidered Kurta",
+      "price":"Rs.2999"
+    }
+  ],
+  
+  
+  "kids": [
+    
+      {
+        "id": 31,
+        "name": "Chandrika Army Dress for 4 - 5 Years Kids Costume Wear",
+        "price": "Rs.243",
+        "description": "Authentic Military Pattern",
+        "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-kid-costume-wear/x/s/a/36-1-2-years-cpby001-shopsy-indian-army-chandrika-lifestyle-48-original-imaghh3wyc68ffh4.jpeg?q=70"
+      },
+      {
+        "id": 32,
+        "name": "Girls Festive & Party Angarkha and Sharara Set",
+        "price": "Rs.448",
+          "description": "Crafted from breathable cotton",
+        "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/kids-ethnic-set/h/1/z/7-8-years-rani-kidas-sharara-b-tech-original-imah8zx3vxjztm3q.jpeg?q=70"
+      },
+       {
+        "id": 33,
+        "name": "Girls Casual Jacket Pant  (Pink)",
+        "price":"Rs.317",
+          "description": "Designed for the modern era of clothing .",
+        "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/kids-apparel-combo/k/r/4/8-9-years-popcorn-pink-paghdal-brothers-original-imah5jk3bhqzhcjn.jpeg?q=70"
+      },
+        {
+        "id": 34,
+        "name": "Boys Party(Festive) T-shirt Shorts  (Green)", 
+        "price": "Rs.432",
+         "description": "The green t-shirt set features subtle .",
+        "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/kids-apparel-combo/q/q/p/5-6-years-flp-m-rj-parent-9-the-lalcollection-kidswear-original-imah2tr4rmzyznjd.jpeg?q=70"
+      },
+        {
+        "id": 35,
+        "name": "ITSMYCOSTUME Krishna Dress for Baby Boy/Girl Kanha",
+        "price": "Rs.640",
+          "description": "Equipped with an all-inclusive .",
+        "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/kid-costume-wear/x/o/6/60-5-6-years-imc2006-itsmycostume-72-original-imahamsgbaxwwxtf.jpeg?q=70"
+      },
+       {
+        "id": 36,
+        "name": "Boys Printed Pure Cotton Regular T Shirt.",
+        "price": "Rs.262",
+        "description": " Printed Pure Cotton Regular T Shirt.",
+        "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/kids-t-shirt/q/l/h/2-3-years-iff-vest-tshirt-india-fashion-fab-original-imagbgeahmvmdqge-bb.jpeg?q=70"
+      },
+      {
+        "id": 37,
+        "name": "Boys Full Sleeve Printed Sweatshirt",
+        "price": "Rs.1158",
+          "description": "Monte Carlo Boy Sweatshirt",
+        "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/sweatshirt/0/q/p/4-5-years-524068268-2-monte-carlo-original-imah5mzzzgysgygq.jpeg?q=70"
+      },
+       {
+        "id": 38,
+        "name": "Girls Festive & Party Kurta, Pyjama & Dupatta Set",
+        "price": "Rs.307",
+          "description": "Kurta, Pyjama & Dupatta Set.",
+        "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/kids-ethnic-set/w/p/x/4-5-years-rp-green-2-qadri-enterprise-original-imah43g6yumhnhss.jpeg?q=70"
+      },
+        {
+        "id": 39,
+        "name": "Baby Girls Casual Top Shorts  ", 
+        "price":"Rs.179" ,
+         "description": "Toddler girls Floral print  shorts .",
+        "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-kids-apparel-combo/t/k/w/6-9-months-pink-print-combo-16-fosen-original-imah4hy34wfzhpa2.jpeg?q=70"
+      },
+        {
+        "id": 40,
+        "name": "Boys & Girls Printed Cotton Blend Regular T Shirt ",
+        "price":"Rs.331",
+          "description": "High quality cotton fabric.",
+        "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-kids-t-shirt/q/w/d/15-16-years-pc-wine-salmon-navy-ni-fashion-original-imagzag5h7g5znzk.jpeg?q=70"
+      }
+    ],
+
+
+    "men":[
+    {
+      "id":45,
+      "image":"https://m.media-amazon.com/images/I/71scmAHCBCL._AC_UL480_FMwebp_QL65_.jpg",
+      "name":"Jockey",
+      "description":"Polo T Shirt for Men ",
+      "price":"Rs.399"
+    },
+
+     {
+      "id":46,
+      "image":"https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/9/g/b/xl-abul-23bds-4ol-bullmer-original-imagzc6pse6jzf7k.jpeg?q=70",
+      "name":"Jockey",
+      "description":"Men's Cotton Regular Fit T-Shirt",
+      "price":"Rs.299"
+    },
+    {
+      "id":47,
+      "image":"https://m.media-amazon.com/images/I/71eUwDk8z+L._AC_UL480_FMwebp_QL65_.jpg",
+      "name":"Allen Solly",
+      "description":"Trendy Printed Cotton Tshirt",
+      "price":"Rs.349"
+    },
+    {
+      "id":48,
+      "image":"https://m.media-amazon.com/images/I/613xR9vTm1L._AC_UL480_FMwebp_QL65_.jpg",
+      "name":"BULLMER",
+      "description":"Trendy Printed Cotton Tshirt",
+      "price":"Rs.299"
+    },
+    {
+      "id":49,
+      "image":"https://m.media-amazon.com/images/I/51sSJUx8mwL._AC_UL480_FMwebp_QL65_.jpg",
+      "name":"JVX",
+      "description":"Men Tshirt",
+      "price":"Rs.499"
+    },
+     {
+      "id":50,
+      "image":"https://m.media-amazon.com/images/I/61jURfvRo+L._AC_UL480_FMwebp_QL65_.jpg",
+      "name":"JVX",
+      "description":"Trendy Printed T-Shirt",
+      "price":"Rs.499"
+    },
+     {
+      "id":51,
+      "image":"https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/g/2/k/s-mario-sky-combraided-original-imahahstnfj4mynx.jpeg?q=70",
+      "name":"Lymio",
+      "description":"Polo T-Shirt",
+      "price":"Rs.499"
+    },
+     {
+      "id":52,
+      "image":"https://m.media-amazon.com/images/I/51WkgwvB35L._AC_UL480_FMwebp_QL65_.jpg",
+      "name":"Levi's",
+      "description":"Men's Solid Loose Fit T-Shirt",
+      "price":"Rs.1699"
+    },
+     {
+      "id":53,
+      "image":"https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/e/d/c/xxl-mens-strip-polo-hs-black-red-tb-blue-original-imahfdzkrtqyqtzx.jpeg?q=70",
+      "name":"Wrogan",
+      "description":"Men's Solid  T-Shirt",
+      "price":"Rs.2099"
+    },
+     {
+      "id":54,
+      "image":"https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/y/n/r/xl-aetr1181-7095-ausk-original-imahbndzackq3j6u.jpeg?q=70",
+      "name":"Kappa",
+      "description":"Men's kappa Fit T-Shirt",
+      "price":"Rs.2699"
+    }
+
+  ]
+  }
+
+   
